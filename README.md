@@ -1,2 +1,4 @@
 # my_project
-for fast meal ressturant 
+For fast meal restaurants 
+
+## projects notes
